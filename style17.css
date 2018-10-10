@@ -1,0 +1,28 @@
+header
+	{
+	max-width: 975px;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	}
+main
+	{max-width: 975px;
+	margin: 0 auto;}
+footer
+	{
+	max-width: 975px;
+	margin: 0 auto;}
+.wrapper 
+{padding:0 50px;}
+.rrr {margin-left: 62%;}
+.vfonn {font-size: 25px;}
+.blok2 {
+display: block;}
+.tre>div 
+{width: 30%;}
+.blok6>img 
+{width: 860px;}
+.blok5>div>div>div>img {
+    height: 149px;
+width: 200px;}
+h4 {
+font-size: 28px;}

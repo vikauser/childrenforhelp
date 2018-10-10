@@ -1,0 +1,44 @@
+header
+	{
+	max-width: 1585px;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	}
+main
+	{max-width: 1585px;
+	margin: 0 auto;}
+footer
+	{
+	max-width: 1585px;
+	margin: 0 auto;}
+.wrapper
+	{padding:0 100px;}
+.wrapper > div > img {
+    height: 129px;
+width: 200px;}
+.gor {
+font-size: 13px;}
+.vblok3 > div > img {
+    height: 272px;
+width: 400px;}
+.blok5>div>div>div>img {
+    height: 202px;
+width: 280px;}
+.blok6>img {
+    height: 365px;
+width: 1095px;}
+.v1 >video
+{height:315px;
+width:390px;}
+.v2 >video
+{height:315px;
+width:390px;}
+h4 
+{margin: -350px 10px 10px 10px;}
+.reg 
+{margin: 0 20px 0 80px;}
+.rrr {
+margin-top: -630px;
+margin-left: 60%;}
+.vfonn {font-size: 23px;}
+

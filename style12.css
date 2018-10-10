@@ -1,0 +1,164 @@
+header
+	{
+	max-width: 1110px;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	}
+main
+	{max-width: 1110px;
+	margin: 0 auto;}
+footer
+	{
+	max-width: 1110px;
+	margin: 0 auto;}
+	.ver{
+		display:block;
+		float:right;
+	}
+.fas fa-bars
+{
+	font-size: 40pt;
+	}
+	.gor
+	{
+		display:none;
+	}
+.wrapper
+	{padding:0 80px;}
+.gor>li
+	{
+	margin-right:10px;
+	padding:5px;
+	}
+li:hover
+	{
+	border-radius:10px;
+	}
+.gor
+{font-size: 12px;}
+.wrapper > div > img
+		{
+		height:149px;
+		width:230px;
+		}
+.vblok3 > div > img
+	{
+	height: 222px;
+    width: 300px;
+	}
+.reg
+	{
+	background:red;	
+	padding: 13px;
+	border-radius:15px;
+	margin: 0 10px 0 80px;
+	}
+.tre>div
+{width: 33%;}
+.tre>div>p
+	{font-size:15px;}
+.tre>div>h2
+	{font-size:25px;}
+.fa-bell, .fa-heart
+	{font-size: 10pt;}
+.tre>div>i
+	{margin: 5px;}
+h1
+	{font-size:50px;}
+h2
+	{font-size:40px;
+	padding: 20px 0 0 0;}
+h4
+{font-size:40px;
+margin: -250px 10px 10px 10px;}
+.blok5
+	{height: 630px;}
+.blok6>img
+{height:308px;
+width:1093.6px;}
+.vfonn
+	{margin: 30px 0 30px 0;
+	font-size:30px;}	
+.fonn>img
+{height: 466px;
+width: 700px;}
+.blok1{margin-top: -12%;
+}
+.bl, .gr, .re
+{font-size: 15px;}
+.obi
+{margin-right: 8px;}
+.v1 >video
+{    height: 275px;
+    width: 350px;}
+.v2 >video
+{    height: 275px;
+    width: 350px;}
+.blok5>div>div>div>img
+{height: 179px;
+ width: 250px;}
+.gr1
+	{
+	padding: 8px;
+	font-size: 15px;
+	margin: 10px 80px -30px 80px;
+	}
+.re1
+	{
+	padding: 8px;
+	font-size: 15px;
+	margin: 10px 80px -30px 80px;
+	}
+.bl1
+{
+padding: 8px;
+	font-size: 15px;
+	margin: 10px 80px -30px 80px;
+	}
+footer>img
+{height:351px;
+width:1093.6px;}
+.fa-twitter-square, .fa-facebook, .fa-google-plus, .fa-pinterest
+{font-size: 20pt;
+	margin:3px;
+	}
+.fa-map-marker-alt, .fa-mobile
+{font-size: 15pt;
+	margin:3px;
+	}
+.vfoot {margin: -200px 10px 50px 10px;}
+.vfoot>div>img
+{height:51px;
+width:51px;}
+.vfoot2 >h5 
+{font-size: 20px;}
+.vfoot3 >h5 
+{font-size: 20px;}
+.vfoot4 >h5 
+{font-size: 20px;}
+.vfoot2>ul {
+padding: 0.5px;
+font-size: 11px;}
+.adress>i
+{margin: 20px 0px 0 0px;}
+.new
+{margin: -40px -10px 0 30px;}
+.new2
+{margin: -40px -10px 0 30px;}
+.vfoot3>div
+{font-size: 11px;}
+.red11 {
+    border-radius: 10px;
+    padding: 7px;
+    font-size: 11px;
+margin: 10px 0 0 0;}
+.foot>h3 {
+font-size: 10px;}
+.foot {height: 25pt;}
+footer {
+height: 250px;}
+.vblok7 {
+margin: 70px 0px -400px 0px;}
+.rrr {
+ margin-top: -480px;
+ margin-left: 60%;}
